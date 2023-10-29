@@ -1,8 +1,11 @@
 ![GitHub Repo Size](https://img.shields.io/github/repo-size/Las-Fuerzas-Del-Cielo/Sistema-Anti-Fraude-Electoral)
 
+# ESTE FORK ES PARA LOS LOADERS CON CSS Y TS
+
 # :lion: Sistema-Anti-Fraude-Electoral :lion:
 
 Este es un proyecto **Open Source** (código libre) cuyo objetivo es minimizar y detectar la posibilidad de fraude electoral en las próximas elecciones presidenciales de Argentina donde se define finalmente quien será presidente.
+
 
 La intención de crear este sistema es mantener y preservar la democracia y la transparencia al pueblo argentino.
 
