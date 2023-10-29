@@ -17,7 +17,9 @@ function App() {
       {loading ? (
       <>
         <div className="loader1"></div>
-        <div className="loader2"></div></>
+        <div className="loader2"></div>
+        <div className="loader3"></div>
+      </>
       ) : (
         <p>
           Si queres saber algo hablame al discord: aspadexaverse (AFK)
