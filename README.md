@@ -1,6 +1,6 @@
 ![GitHub Repo Size](https://img.shields.io/github/repo-size/Las-Fuerzas-Del-Cielo/Sistema-Anti-Fraude-Electoral)
 
-# ESTE FORK ES PARA LOS LOADERS Y BOTONES CON CSS Y TS
+# ESTE FORK ES PARA LOS BOTONES PARA SUBIR ARCHIVOS,LOADERS Y BOTONES CON CSS Y TS
 
 # :lion: Sistema-Anti-Fraude-Electoral :lion:
 
